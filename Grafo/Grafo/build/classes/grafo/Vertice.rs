@@ -1,0 +1,2 @@
+grafo.Vertice
+grafo.Tipo
